@@ -1,0 +1,10 @@
+body {
+    background-color: blueviolet;
+}
+
+h1 {
+    border: 20px solid aqua;
+    border-radius: 5px;
+    color: blanchedalmond;
+    text-align: center;
+}
